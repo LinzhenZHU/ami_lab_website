@@ -3,7 +3,7 @@
   ![on-pull-request](../../actions/workflows/on-pull-request.yaml/badge.svg)
   ![on-schedule](../../actions/workflows/on-schedule.yaml/badge.svg)
 
-  # Ambient-Intelligence-Lab-UMich-EECS's Website
+  # Ambient Intelligence Lab's Website
 
   Visit **[ambient-intelligence-lab-umich-eecs.github.io/ami_lab_website](https://ambient-intelligence-lab-umich-eecs.github.io/ami_lab_website)** 🚀
 
