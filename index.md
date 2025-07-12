@@ -1,11 +1,10 @@
 ---
 ---
 
-# Ambient Intelligence Lab's Website
-
-**The AmI (Ambient Intelligence) Lab led by [Ke Sun](https://samsonsjarkal.github.io/KeSun/)** is established in CSE of the EECS Department at the University of Michigan, Ann Arbor in Jan 2025.
-
 ## AmI Lab Vision
+
+Welcome to the **AmI (Ambient Intelligence)**
+**The AmI (Ambient Intelligence) Lab led by Prof. [Ke Sun](https://samsonsjarkal.github.io/KeSun/)** is established in CSE of the EECS Department at the University of Michigan, Ann Arbor in Jan 2025.
 
 We envision a future where our environments intuitively adapt in real-time to augment human abilities through **Ambient Intelligence (AmI)**. In this future, devices, sensors, and processors are seamlessly embedded into everyday objects and spaces, creating intelligent systems that proactively adjust to individual needs. This vision guides AmI Lab @ UMich CSE on developing **intelligent, cost-effective, deployable, human-centric, and trustworthy Mobile, Wearable, and IoT (MWIoT) systems**.
 
