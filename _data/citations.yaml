@@ -1,264 +1,454 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1101/2025.06.19.660613
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.1109/sp61157.2025.00235
+  title: 'EveGuard: Defeating Vibration-based Side-Channel Eavesdropping with Audio
+    Adversarial Perturbations'
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
-  publisher: Cold Spring Harbor Laboratory
-  date: '2025-06-25'
-  link: https://doi.org/g9rfr3
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
-  authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
-  authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
-  authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
-  authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
-  authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
-  authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
+  - Jung-Woo Chang
+  - Ke Sun
+  - David Xia
+  - Xinyu Zhang
+  - Farinaz Koushanfar
+  publisher: 2025 IEEE Symposium on Security and Privacy (SP)
+  date: '2025-05-12'
+  link: https://doi.org/g9s9z9
+  orcid: 0000-0001-9563-1398
+  ke-sun: true
   plugin: sources.py
   file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
+  publishershort: IEEE S&P (Oakland) '25
+- id: doi:10.1145/3715014.3724047
+  title: 'Poster Abstract: On-Shelf Weight Difference Estimation Through Active Vibration
+    Sensing'
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
+  - Jiale Zhang
+  - Yuyan Wu
+  - Jesse Codling
+  - Julia Gersey
+  - Adeola Bannis
+  - Carlos Ruiz Dominguez
+  - Ke Sun
+  - Pei Zhang
+  publisher: Proceedings of the 23rd ACM Conference on Embedded Networked Sensor Systems
+  date: '2025-05-06'
+  link: https://doi.org/g9s2pm
+  orcid: 0000-0001-9563-1398
+  ke-sun: true
+  plugin: sources.py
+  file: sources.yaml
+  publishershort: ACM SenSys '25
+- id: doi:10.1609/aaai.v39i22.34537
+  title: Security Attacks on LLM-based Code Completion Tools
+  authors:
+  - Wen Cheng
+  - Ke Sun
+  - Xinyu Zhang
+  - Wei Wang
+  publisher: Proceedings of the AAAI Conference on Artificial Intelligence
+  date: '2025-04-11'
+  link: https://doi.org/g9s92b
+  orcid: 0000-0001-9563-1398
+  ke-sun: true
+  plugin: sources.py
+  file: sources.yaml
+  publishershort: AAAI
+- id: doi:10.14722/ndss.2025.230336
+  title: 'Magmaw: Modality-Agnostic Adversarial Attacks on Machine Learning-Based
+    Wireless Communication Systems'
+  authors:
+  - Jung-Woo Chang
+  - Ke Sun
+  - Nasimeh Heydaribeni
+  - Seira Hidano
+  - Xinyu Zhang
+  - Farinaz Koushanfar
+  publisher: Proceedings 2025 Network and Distributed System Security Symposium
+  date: '2025-01-01'
+  link: https://doi.org/g9xjt4
+  orcid: 0000-0001-9563-1398
+  ke-sun: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1145/3666025.3699351
+  title: 'RFCanvas: Modeling RF Channel by Fusing Visual Priors and Few-shot RF Measurements'
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  - Xingyu Chen
+  - Zihao Feng
+  - Ke Sun
+  - Kun Qian
+  - Xinyu Zhang
+  publisher: Proceedings of the 22nd ACM Conference on Embedded Networked Sensor Systems
+  date: '2024-11-04'
+  link: https://doi.org/g9s2pn
+  orcid: 0000-0001-9563-1398
+  ke-sun: true
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+  publishershort: ACM SenSys '24
+- id: doi:10.1145/3677122
+  title: Towards Smartphone-based 3D Hand Pose Reconstruction Using Acoustic Signals
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - Shiyang Wang
+  - Xingchen Wang
+  - Wenjun Jiang
+  - Chenglin Miao
+  - Qiming Cao
+  - Haoyu Wang
+  - Ke Sun
+  - Hongfei Xue
+  - Lu Su
+  publisher: ACM Transactions on Sensor Networks
+  date: '2024-08-26'
+  link: https://doi.org/g9s2pp
+  orcid: 0000-0001-9563-1398
+  ke-sun: true
   plugin: sources.py
   file: sources.yaml
+  publishershort: ACM TOSN
+- id: doi:10.1145/3643553
+  title: Multimodal Daily-Life Logging in Free-living Environment Using Non-Visual
+    Egocentric Sensors on a Smartphone
+  authors:
+  - Ke Sun
+  - Chunyu Xia
+  - Xinyu Zhang
+  - Hao Chen
+  - Charlie Jianzhong Zhang
+  publisher: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous
+    Technologies
+  date: '2024-03-06'
+  link: https://doi.org/g9s2pq
+  orcid: 0000-0001-9563-1398
+  ke-sun: true
+  plugin: sources.py
+  file: sources.yaml
+  publishershort: ACM IMWUT (UbiComp'24)
+- id: doi:10.14722/ndss.2023.24077
+  title: 'StealthyIMU: Stealing Permission-protected Private Information From Smartphone
+    Voice Assistant Using Zero-Permission Sensors'
+  authors:
+  - Ke Sun
+  - Chunyu Xia
+  - Songlin Xu
+  - Xinyu Zhang
+  publisher: Proceedings 2023 Network and Distributed System Security Symposium
+  date: '2023-01-01'
+  link: https://doi.org/g9s2pr
+  orcid: 0000-0001-9563-1398
+  ke-sun: true
+  plugin: sources.py
+  file: sources.yaml
+  publishershort: NDSS
+- id: doi:10.1109/TMC.2023.3241304
+  title: 'SCALAR: Self-Calibrated Acoustic Ranging for Distributed Mobile Devices'
+  authors:
+  - Lei Wang
+  - Haoran Wan
+  - Ting Zhao
+  - Ke Sun
+  - Shuyu Shi
+  - Haipeng Dai
+  - Guihai Chen
+  - Haodong Liu
+  - Wei Wang
+  publisher: IEEE Transactions on Mobile Computing
+  date: '2023-01-01'
+  link: https://doi.org/g8xcd3
+  orcid: 0000-0001-9563-1398
+  ke-sun: true
+  plugin: sources.py
+  file: sources.yaml
+  publishershort: IEEE TMC
+- id: doi:10.1145/3550293
+  title: 'LoEar: Push the Range Limit of Acoustic Sensing for Vital Sign Monitoring'
+  authors:
+  - Lei Wang
+  - Wei Li
+  - Ke Sun
+  - Fusang Zhang
+  - Tao Gu
+  - Chenren Xu
+  - Daqing Zhang
+  publisher: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous
+    Technologies
+  date: '2022-09-06'
+  link: https://doi.org/g9s2ps
+  orcid: 0000-0001-9563-1398
+  ke-sun: true
+  plugin: sources.py
+  file: sources.yaml
+  publishershort: ACM IMWUT (UbiComp'22)
+- id: doi:10.1145/3550336
+  title: 'VECTOR: Velocity Based Temperature-field Monitoring with Distributed Acoustic
+    Devices'
+  authors:
+  - Haoran Wan
+  - Lei Wang
+  - Ting Zhao
+  - Ke Sun
+  - Shuyu Shi
+  - Haipeng Dai
+  - Guihai Chen
+  - Haodong Liu
+  - Wei Wang
+  publisher: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous
+    Technologies
+  date: '2022-09-06'
+  link: https://doi.org/g9s2pt
+  orcid: 0000-0001-9563-1398
+  ke-sun: true
+  plugin: sources.py
+  file: sources.yaml
+  publishershort: ACM IMWUT (UbiComp'22)
+- id: doi:10.1145/3447993.3448626
+  title: 'UltraSE: single-channel speech enhancement using ultrasound'
+  authors:
+  - Ke Sun
+  - Xinyu Zhang
+  publisher: Proceedings of the 27th Annual International Conference on Mobile Computing
+    and Networking
+  date: '2021-09-09'
+  link: https://doi.org/gmz559
+  orcid: 0000-0001-9563-1398
+  ke-sun: true
+  plugin: sources.py
+  file: sources.yaml
+  publishershort: ACM MobiCom'21
+- id: doi:10.1145/3412382.3458268
+  title: 'ExGSense: Toward Facial Gesture Sensing with a Sparse Near-Eye Sensor Array'
+  authors:
+  - Chen Chen
+  - Ke Sun
+  - Xinyu Zhang
+  publisher: Proceedings of the 20th International Conference on Information Processing
+    in Sensor Networks (co-located with CPS-IoT Week 2021)
+  date: '2021-05-18'
+  link: https://doi.org/g9s2pv
+  orcid: 0000-0001-9563-1398
+  ke-sun: true
+  plugin: sources.py
+  file: sources.yaml
+  publishershort: ACM/IEEE IPSN'21
+- id: doi:10.1109/TMC.2019.2961885
+  title: 'WiTrace: Centimeter-Level Passive Gesture Tracking Using OFDM Signals'
+  authors:
+  - Lei Wang
+  - Ke Sun
+  - Haipeng Dai
+  - Wei Wang
+  - Kang Huang
+  - Alex X. Liu
+  - Xiaoyu Wang
+  - Qing Gu
+  publisher: IEEE Transactions on Mobile Computing
+  date: '2021-04-01'
+  link: https://doi.org/gghgf9
+  orcid: 0000-0001-9563-1398
+  ke-sun: true
+  plugin: sources.py
+  file: sources.yaml
+  publishershort: IEEE TMC
+- id: doi:10.1145/3384419.3430727
+  title: '"Alexa, stop spying on me!" speech privacy protection against voice assistants'
+  authors:
+  - Ke Sun
+  - Chen Chen
+  - Xinyu Zhang
+  publisher: Proceedings of the 18th Conference on Embedded Networked Sensor Systems
+  date: '2020-11-16'
+  link: https://doi.org/ghqdzz
+  orcid: 0000-0001-9563-1398
+  ke-sun: true
+  plugin: sources.py
+  file: sources.yaml
+  publishershort: ACM SenSys'20
+- id: doi:10.1145/3384419.3430776
+  title: 'milliEgo: single-chip mmWave radar aided egomotion estimation via deep sensor
+    fusion'
+  authors:
+  - Chris Xiaoxuan Lu
+  - Muhamad Risqi U. Saputra
+  - Peijun Zhao
+  - Yasin Almalioglu
+  - Pedro P. B. de Gusmao
+  - Changhao Chen
+  - Ke Sun
+  - Niki Trigoni
+  - Andrew Markham
+  publisher: Proceedings of the 18th Conference on Embedded Networked Sensor Systems
+  date: '2020-11-16'
+  link: https://doi.org/gs6mn8
+  orcid: 0000-0001-9563-1398
+  ke-sun: true
+  plugin: sources.py
+  file: sources.yaml
+  publishershort: ACM SenSys'20
+- id: doi:10.1109/infocom41043.2020.9155491
+  title: 'Dynamic Speed Warping: Similarity-Based One-shot Learning for Device-free
+    Gesture Signals'
+  authors:
+  - Xun Wang
+  - Ke Sun
+  - Ting Zhao
+  - Wei Wang
+  - Qing Gu
+  publisher: IEEE INFOCOM 2020 - IEEE Conference on Computer Communications
+  date: '2020-07-01'
+  link: https://doi.org/ghkk73
+  orcid: 0000-0001-9563-1398
+  ke-sun: true
+  plugin: sources.py
+  file: sources.yaml
+  publishershort: IEEE INFOCOM'20
+- id: doi:10.1109/infocom41043.2020.9155447
+  title: 'SpiderMon: Towards Using Cell Towers as Illuminating Sources for Keystroke
+    Monitoring'
+  authors:
+  - Kang Ling
+  - Yuntang Liu
+  - Ke Sun
+  - Wei Wang
+  - Lei Xie
+  - Qing Gu
+  publisher: IEEE INFOCOM 2020 - IEEE Conference on Computer Communications
+  date: '2020-07-01'
+  link: https://doi.org/ghkkx4
+  orcid: 0000-0001-9563-1398
+  ke-sun: true
+  plugin: sources.py
+  file: sources.yaml
+  publishershort: IEEE INFOCOM'20
+- id: doi:10.1109/tmc.2020.2997602
+  title: Charging Task Scheduling for Directional Wireless Charger Networks
+  authors:
+  - Haipeng Dai
+  - Ke Sun
+  - Alex X. Liu
+  - Lijun Zhang
+  - Jiaqi Zheng
+  - Guihai Chen
+  publisher: IEEE Transactions on Mobile Computing
+  date: '2021-11-01'
+  link: https://doi.org/g9s2pw
+  orcid: 0000-0001-9563-1398
+  ke-sun: true
+  plugin: sources.py
+  file: sources.yaml
+  publishershort: IEEE TMC
+- id: doi:10.1145/3241539.3241568
+  title: 'VSkin: Sensing Touch Gestures on Surfaces of Mobile Devices Using Acoustic
+    Signals'
+  authors:
+  - Ke Sun
+  - Ting Zhao
+  - Wei Wang
+  - Lei Xie
+  publisher: Proceedings of the 24th Annual International Conference on Mobile Computing
+    and Networking
+  date: '2018-10-15'
+  link: https://doi.org/gfvpdd
+  orcid: 0000-0001-9563-1398
+  ke-sun: true
+  plugin: sources.py
+  file: sources.yaml
+  publishershort: ACM MobiCom'18
+- id: doi:10.1145/3264950
+  title: 'Unlock with Your Heart: Heartbeat-based Authentication on Commercial Mobile
+    Phones'
+  authors:
+  - Lei Wang
+  - Kang Huang
+  - Ke Sun
+  - Wei Wang
+  - Chen Tian
+  - Lei Xie
+  - Qing Gu
+  publisher: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous
+    Technologies
+  date: '2018-09-18'
+  link: https://doi.org/ghkqxx
+  orcid: 0000-0001-9563-1398
+  ke-sun: true
+  plugin: sources.py
+  file: sources.yaml
+  publishershort: ACM IMWUT (UbiComp'18)
+- id: doi:10.1145/3225058.3225080
+  title: Charging Task Scheduling for Directional Wireless Charger Networks
+  authors:
+  - Haipeng Dai
+  - Ke Sun
+  - Alex X. Liu
+  - Lijun Zhang
+  - Jiaqi Zheng
+  - Guihai Chen
+  publisher: Proceedings of the 47th International Conference on Parallel Processing
+  date: '2018-08-13'
+  link: https://doi.org/g9s2px
+  orcid: 0000-0001-9563-1398
+  ke-sun: true
+  plugin: sources.py
+  file: sources.yaml
+  publishershort: ACM ICPP'18
+- id: doi:10.1145/3210240.3210315
+  title: Depth Aware Finger Tapping on Virtual Displays
+  authors:
+  - Ke Sun
+  - Wei Wang
+  - Alex X. Liu
+  - Haipeng Dai
+  publisher: Proceedings of the 16th Annual International Conference on Mobile Systems,
+    Applications, and Services
+  date: '2018-06-10'
+  link: https://doi.org/gfvpdn
+  orcid: 0000-0001-9563-1398
+  ke-sun: true
+  plugin: sources.py
+  file: sources.yaml
+  publishershort: ACM MobiSys'18
+- id: doi:10.1109/sahcn.2018.8397120
+  title: 'WiTrace: Centimeter-Level Passive Gesture Tracking Using WiFi Signals'
+  authors:
+  - Lei Wang
+  - Ke Sun
+  - Haipeng Dai
+  - Alex X. Liu
+  - Xiaoyu Wang
+  publisher: 2018 15th Annual IEEE International Conference on Sensing, Communication,
+    and Networking (SECON)
+  date: '2018-06-01'
+  link: https://doi.org/g9s2pz
+  orcid: 0000-0001-9563-1398
+  ke-sun: true
+  plugin: sources.py
+  file: sources.yaml
+  publishershort: IEEE SECON'18
+- id: doi:10.1145/2973750.2973764
+  title: Device-free gesture tracking using acoustic signals
+  authors:
+  - Wei Wang
+  - Alex X. Liu
+  - Ke Sun
+  publisher: Proceedings of the 22nd Annual International Conference on Mobile Computing
+    and Networking
+  date: '2016-10-03'
+  link: https://doi.org/gfv6b7
+  orcid: 0000-0001-9563-1398
+  ke-sun: true
+  plugin: sources.py
+  file: sources.yaml
+  publishershort: ACM MobiCom'16
+- id: doi:10.1145/2973750.2987385
+  title: Device-free gesture tracking using acoustic signals
+  authors:
+  - Wei Wang
+  - Alex X. Liu
+  - Ke Sun
+  publisher: Proceedings of the 22nd Annual International Conference on Mobile Computing
+    and Networking
+  date: '2016-10-03'
+  link: https://doi.org/g9s2p2
+  orcid: 0000-0001-9563-1398
+  ke-sun: true
+  plugin: sources.py
+  file: sources.yaml
+  publishershort: ACM MobiCom'16
