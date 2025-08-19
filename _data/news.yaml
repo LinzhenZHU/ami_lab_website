@@ -1,0 +1,38 @@
+
+# Add the latest news updates here, such as:
+# - New team members joining
+# - Preprints or publications
+# - Grants and funding announcements
+# - Awards, invited talks and achievements
+# - Major lab accomplishments
+#
+# If there is an external link (e.g., to a journal or news article), add it in the `link` field.
+# Otherwise, leave `link` blank.
+# Please add the new entries on the top although these are sorted by date. 
+
+- title: AmI lab launches a new website!
+  date: 2025-08-01
+
+- title: AmI lab warmly welcomes the first two Ph.D. students, Linzhen Zhu and Leonard Zhang, to join the lab!
+  date: 2025-08-01
+  description: Please check our team member page for more information about Linzhen and Leonard.
+  url: https://ambient-intelligence-lab-umich-eecs.github.io/ami_lab_website/team/
+
+- title: Samsung START Project supports our lab's research on multi-modal lifelong memory augmentation systems.
+  date: 2025-08-01
+  description: Prof. Ke Sun (PI), Prof. Anhong Guo (Co-PI), and Prof. Kang G.Shin (Co-PI) have been awarded a Samsung START project to develop a 
+    multi-modal lifelong memory augmentation system that can capture, store, and retrieve human experiences in real-time.
+  url: https://www.samsung.com/us/samsung-start/
+
+- title: UltraPoser has been accepted at ACM UIST 2025. Congratulations to the Yadong and Shuning! 
+  date: 2025-07-15
+  description: UltraPoser is a multi-modal full-body motion capture system using commdity wearable devices only to integrate ultrasonic sensing 
+    with inertial measurements for improved fidelity, broader coverage and increased reliability.
+  url: https://uist.acm.org/2025/
+
+- title: EveGuard has been accepted at IEEE S&P (Oakland) 2025. Congratulations to the Jung-woo! 
+  date: 2025-05-01
+  description: EveGuard is a software-driven defense framework that creates adversarial audio, protecting voice privacy from side channels 
+    (including mmWave radars, light sensors, and accelerometers) without compromising human perception.
+  url: https://uist.acm.org/2025/
+

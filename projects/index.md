@@ -12,6 +12,8 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include tags.html tags="publication, resource, website" %}
 
+{% include list.html data="citations" component="citation" filters="ke-sun: true" %}
+
 {% include search-info.html %}
 
 {% include section.html %}
